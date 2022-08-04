@@ -18,7 +18,7 @@ from PyQt5 import QtGui
 app = QApplication([])
 win = QWidget()
 win.resize(700, 500)
-win.setStyleSheet("color: yellow;"
+win.setStyleSheet("color: green;"
                   "background-color: #F4F1B7;"
                   "border : 1px solid lime;")
 
